@@ -36,7 +36,7 @@ The primary goal of this mini-project is to implement a robust microservices arc
 3. **Check Service Discovery**
    - Access the Eureka console (`http://localhost:{port}/`) to verify if the microservices are correctly registered.
 
-   ![Eureka Server](![eureka](https://github.com/GUEZIR-HAMZA/Microservices_Eureka_Server-v0.1/assets/95761219/2d876fce-ee4d-4a9b-ab2d-724f082e98a0))
+   ![Eureka Server](eureka.png)
 
 4. **Communication Tests**
    - Perform RestTemplate calls between microservices to ensure communication is functioning correctly.
